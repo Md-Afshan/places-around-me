@@ -130,11 +130,9 @@ Execute the programs and publish them.
     <p align="justify">
         <font face="Georgia" size="6">
     <u>Address :</u> 12/5, Ormes Rd, near CSI Bain School, Kilpauk, Chennai, Tamil Nadu 600010.<br>
-    This spot gives extraordinary service and yummy meals. One of my favourite restaurants around town.
-    The meals served rapidly and the rates were reasonable. Highly recommended.Delicious food, waiters are very attentive,
-    and super nice atmosphere.Plus it`s all at an affordable price.The restaurant may not be as appealing as a high flying restaurant,
-    but it would be decent enough for a family to dine in. Exceptional food taste and quality. It is will be worth the money you would spend on the food.
-    The service is pretty quick, if you are ordering take away.
+    This spot gives extraordinary service and yummy meals. One of my favourite restaurants around town.The meals served rapidly and the rates were reasonable. Highly recommended.Delicious food, waiters are very attentive, and super nice atmosphere.
+    Plus it`s all at an affordable price.The restaurant may not be as appealing as a high flying restaurant, but it would be decent enough for a family to dine in. Exceptional food taste
+    and quality. It is will be worth the money you would spend on the food. The service is pretty quick, if you are ordering take away.
         </font>
     </p> 
 </body>
@@ -142,6 +140,7 @@ Execute the programs and publish them.
 ```
 ### ice-cream-shop.html:
 ```
+!DOCTYPE html>
 <html>
 <head>
     <title>IBACO</title>
